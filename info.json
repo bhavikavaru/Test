@@ -2,7 +2,7 @@
     "name" : "External Update Example",
     "slug" : "external-update-example",
     "homepage" : "http://example.com/",
-    "download_url" : "http://w-shadow.com/files/external-update-example/external-update-example.zip",
+    "download_url" : "https://github.com/bhavikavaru/Test/archive/master.zip",
     
     "version" : "2.0",
     "requires" : "3.2",
@@ -28,4 +28,5 @@
     "rating" : 90,
     "num_ratings" : 123,
     "downloaded" : 1234,
-    "active_installs" : 12345}
+    "active_installs" : 12345
+}
