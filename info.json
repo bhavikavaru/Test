@@ -1,7 +1,7 @@
 {
     "name" : "External Update Example",
     "slug" : "external-update-example",
-    "homepage" : "http://example.com/",
+    "homepage" : "https://github.com/bhavikavaru/Test",
     "download_url" : "https://github.com/bhavikavaru/Test/archive/master.zip",
     
     "version" : "2.0",
@@ -11,7 +11,7 @@
     "upgrade_notice" : "Here's why you should upgrade...",
     
     "author" : "Janis Elsts",
-    "author_homepage" : "http://w-shadow.com/",
+    "author_homepage" : "https://github.com/bhavikavaru/Test",
     
     "sections" : {
         "description" : "(Required) Plugin description. Basic HTML can be used in all sections.",
